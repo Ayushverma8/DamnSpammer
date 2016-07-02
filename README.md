@@ -38,7 +38,7 @@ times : number of times you want Script to run!
 ### Warning
  Don't use if you need to login first!!! Damn *Google policies*
  
- ### License
+### License
  DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 1 , July 2016
 
