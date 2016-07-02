@@ -35,5 +35,5 @@ python spammer.py 'url' (in quotes) times
 url : Address of the Form 
 times : number of times you want Script to run!
  
- ###Warning
- Don't use if you need to login first *Google policies*
+### Warning
+ Don't use if you need to login first!!! Damn *Google policies*
